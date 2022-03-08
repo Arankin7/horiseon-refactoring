@@ -3,4 +3,4 @@ The Benefits of accesibility and the influence social media has on online reputa
 
 Link to site: https://arankin7.github.io/horiseon-refactoring/
 
-![Screenshot of page](/assets/images/seoscreenshot)
+![Screenshot of page](/assets/images/seoscreenshot.jpeg)
