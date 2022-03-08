@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 Horiseon Search Engine Optimization. 
 The Benefits of accesibility and the influence social media has on online reputation. 
 
